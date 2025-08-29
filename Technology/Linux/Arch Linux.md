@@ -1,0 +1,13 @@
+
+## Installation Guide:
+
+1. `pacman -Sy`: Synchronize with the package database.
+2. `pacman -S archlinux-keyring`: Updates the keyring (the keyring verifies the authenticity of Arch Linux packages).
+3. `archinstall`: Run the installer script.
+
+
+## Post Installation:
+
+1. `sudo pacman -Syu`: upgrade packages
+2. `sudo pacman -S --needed git base-devel`
+3. `sudo git clone "AUR-repo-link"`
