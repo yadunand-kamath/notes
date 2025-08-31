@@ -77,7 +77,7 @@
 
 ### Circulation of Blood through Heart
 
-Right Atrium -> Right Ventricle -> Pulmonary Artery -> Lungs -> Lef Atrium -> Left Ventricle -> Aorta -> Rest of body
+Right Atrium -> Right Ventricle -> Pulmonary Artery -> Lungs -> Left Atrium -> Left Ventricle -> Aorta -> Rest of body
 
 ### Cardio Terms
 
