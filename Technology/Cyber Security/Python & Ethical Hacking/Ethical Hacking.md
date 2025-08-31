@@ -626,7 +626,7 @@ def process_packet(packet):
 				new_content_length = content_length + len(injection_code)
 				load = load.replace(content_length, str(new_content_length))
 			
-		if load != scapy_packet[scapy.Raw].load 
+		if load != scapy_packet[scapy.Raw].load:
 			modified_packet = set_load(scapy_packet, load)
 			set_payload(str(modified_packet))
 			
