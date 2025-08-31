@@ -1,11 +1,11 @@
 
-#encryption #cryptography
+# Encryption Methods
 
 ## Contents :-
 
-#### [[#2.01 - Cryptography Fundamentals]]
-#### [[#2.02 - Encryption Algorithms]]
-#### [[#2.03 - Hashing]]
+#### [2.01 - Cryptography Fundamentals](#201---cryptography-fundamentals)
+#### [2.02 - Encryption Algorithms](#202---encryption-algorithms)
+#### [2.03 - Hashing](#203---hashing)
 
 ---
 
@@ -138,7 +138,7 @@
 - Similar to hash values, the longer and more complex a salt is, the harder it is to crack.
 - For example, a database containing passwords might have several hashed entries for the password "password." If those passwords were all salted, each entry would be completely different. That means an attacker using a rainbow table would be unable to find matching values for "password" in the database.
 
-![[salting.png]]
+![](assets/salting.png)
 
 ---
 
