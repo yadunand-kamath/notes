@@ -994,7 +994,7 @@ if __name__ == '__main__':
 # website_crawler.py
 
 import requests
-inport re
+import re
 import urllib.parse as urlparse
 
 target_links = []
