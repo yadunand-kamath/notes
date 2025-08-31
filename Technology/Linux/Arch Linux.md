@@ -1,4 +1,3 @@
-
 ## Installation Guide:
 
 1. `pacman -Sy`: Synchronize with the package database.
@@ -10,4 +9,6 @@
 
 1. `sudo pacman -Syu`: upgrade packages
 2. `sudo pacman -S --needed git base-devel`
-3. `sudo git clone "AUR-repo-link"`
+3. `git clone "AUR-repo-link"`
+4. `cd <repo-dir>`
+5. `makepkg -si`
