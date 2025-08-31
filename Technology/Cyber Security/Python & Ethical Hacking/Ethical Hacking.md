@@ -1019,7 +1019,7 @@ def extract_links(url):
 	response = request(url)
 	
 	if response:
-		return re.findall('(?:href=")(.*?)"', response.content().decode(errors="ignore"))
+		return re.findall('(?:href=")(.*?)"', response.content.decode(errors="ignore"))
 	
 def crawl(url):
 		href_links = extract_links(url)
