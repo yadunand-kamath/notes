@@ -9,4 +9,3 @@
 - Green cover
 - Artificial rain
 - Direct Air Capture
-- 
