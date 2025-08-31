@@ -46,7 +46,7 @@
 
 1. **Isometric** - force is generated but length of muscle is unchanged
 2. **Concentric** - force is developed while muscle is shortening
-2. **Eccentric** - force is developed while muscle is lengthening
+3. **Eccentric** - force is developed while muscle is lengthening
 
 ---
 
