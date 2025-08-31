@@ -9,7 +9,7 @@
 
 ---
 
-## 2.01 - Cryptography Fundamentals
+## 2.01 - Cryptography Fundamentals <a name="201---cryptography-fundamentals"></a>
 
 - **PII**(***Personally Identifiable Information***) - any information that can be used to infer an individual's identity
 - **Cryptography** - process of transforming information into a form that unintended readers can't understand.
@@ -40,9 +40,7 @@
 
 ---
 
-#encryption-algorithms
-
-## 2.02 - Encryption Algorithms
+## 2.02 - Encryption Algorithms <a name="#202---encryption-algorithms"></a>
 
 ### 2.02.01 - Symmetric algorithms
 
@@ -85,9 +83,7 @@
 
 ---
 
-#hashing
-
-## 2.03 - Hashing
+## 2.03 - Hashing <a name="203---hashing"></a>
 
 - **Hash Function** - an algorithm that produces a code that can't be decrypted.
 - **Non-repudiation** - the concept that the authenticity of information can't be denied.
@@ -138,7 +134,7 @@
 - Similar to hash values, the longer and more complex a salt is, the harder it is to crack.
 - For example, a database containing passwords might have several hashed entries for the password "password." If those passwords were all salted, each entry would be completely different. That means an attacker using a rainbow table would be unable to find matching values for "password" in the database.
 
-![](assets/salting.png)
+![img](assets/salting.png)
 
 ---
 
