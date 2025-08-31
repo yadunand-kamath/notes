@@ -104,7 +104,7 @@ A malicious attack where the threat actors encrypt an organization's data and de
 5. **Assess**
 	- determine if established controls are implemented correctly and are sufficient to manage risks
 6. **Authorize**
-	- being accountable for the security and privacy risks that may exist in ana organization
+	- being accountable for the security and privacy risks that may exist in an organization
 7. **Monitor**
 	- be aware of how systems are operating
 
