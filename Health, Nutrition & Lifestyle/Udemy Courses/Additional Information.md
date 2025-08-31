@@ -1,10 +1,10 @@
 
 #additional-info 
 
-https://www.forksoverknives.com/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4042564/
-https://www.evolvingwellness.com/post/how-to-get-iodine-on-a-plant-based-diet
-https://www.evolvingwellness.com/post/how-to-address-iron-deficiency-on-a-plant-based-diet
+- [Forks Over Knives](https://www.forksoverknives.com/)
+- [Plant-based diets: a physician’s guide (PMC4042564)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4042564/)
+- [How To Get Iodine On A Plant-Based Diet](https://www.evolvingwellness.com/post/how-to-get-iodine-on-a-plant-based-diet)
+- [How To Address Iron Deficiency On A Plant-Based Diet](https://www.evolvingwellness.com/post/how-to-address-iron-deficiency-on-a-plant-based-diet)
 
 https://examine.com/guides/protein-intake
 
