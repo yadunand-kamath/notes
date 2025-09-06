@@ -34,7 +34,7 @@ Make use of one or more expert personas in your prompts. Use the “*act as*” 
 
 ---
 
-## Prompt Breakdown
+## Prompt Formula
 
 1. Role
 2. Task
