@@ -1,3 +1,4 @@
+# Prompt Engineering
 
 Prompt engineering is the art and science of creating effective inputs in order to get the best outputs from LLM models.
 
@@ -32,7 +33,16 @@ In your prompt, invite the model to ask clarification questions. If you prefer, 
 Make use of one or more expert personas in your prompts. Use the “*act as*” technique.
 
 ---
-#prompts
+
+## Prompt Breakdown
+
+1. Role
+2. Task
+3. Context/Instructions
+4. Data/Examples
+
+---
+
 ## Example Prompts
 
 ```
